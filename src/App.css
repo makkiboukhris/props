@@ -1,0 +1,16 @@
+div{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(204, 204, 204);
+  display: flex;
+}
+ul{
+  list-style: none;
+  font-size: 70px;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+}
+li{
+  padding-bottom: 10px;
+}
